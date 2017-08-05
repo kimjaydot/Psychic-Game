@@ -1,32 +1,28 @@
 /*Pyschic Style Sheet*/
 
-body
-{
+body {
 	background-image: url(../images/spacefuture.jpg);
 	background-size: cover;
 	margin: 0 auto;
- 	padding: 0 auto;
- 	width: 960px;
+	padding: 0 auto;
+	width: 960px;
 }
 
-#psychicInfo
-{
- 	height: 100%;
- 	width: 655px;
- 	padding: 20px;
- 	margin-top: 85px;
- 	background-color:rgba(4, 3, 1, 0.41);
-}
+#psychicInfo {
+	height: 100%;
+	width: 655px;
+	padding: 20px;
+	margin-top: 85px;
+	background-color: rgba(4, 3, 1, 0.41);
+}ß
 
-h1
-{
+h1 {
 	color: #ffffff;
-	font-size:45px;
+	font-size: 45px;
 	text-shadow: 2px 2px #FFB733;
 }
 
-p
-{
+p {
 	font-family: 'Mystery Quest', cursive;
 	font-size: 30px;
 	color: #ffffff;
